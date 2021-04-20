@@ -10,7 +10,7 @@ import {
 
 
 
-export const cartReducer = (state = { cartItems: [], shippingAddress: {} }, action) => {
+export const cartReducer = (state = { cartItems: [], shippingAddress: { } }, action) => {
     switch (action.type) {
         case CART_ADD_ITEM:
             const item = action.payload
