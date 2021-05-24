@@ -1,5 +1,7 @@
 # PropShop Ecommerce Website With Django + React
 
+![GIF](https://github.com/ankit80570/proshop_ecommerce/blob/master/resources/proshop.gif)
+
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
