@@ -1,4 +1,4 @@
-# PropShop Ecommerce Website With Django + React
+# ProShop Ecommerce Website With Django + React
 
 ![GIF](https://github.com/ankit80570/proshop_ecommerce/blob/master/resources/proshop.gif)
 
